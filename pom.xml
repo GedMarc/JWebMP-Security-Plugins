@@ -6,6 +6,7 @@
         <artifactId>jwebmp-plugins-modules</artifactId>
         <version>0.0.0_0-SNAPSHOT</version>
     </parent>
+
     <groupId>com.jwebmp.plugins.security</groupId>
     <artifactId>jwebmp-plugins-security-parent</artifactId>
     <packaging>pom</packaging>
@@ -17,7 +18,8 @@
         <profile>
             <id>devkit</id>
             <modules>
-                
+                <module>LocalStorageSecurity</module>
+                <module>IPGeography</module>
             </modules>
         </profile>
     </profiles>

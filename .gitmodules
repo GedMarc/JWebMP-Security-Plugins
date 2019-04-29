@@ -1,0 +1,6 @@
+[submodule "LocalStorageSecurity"]
+	path = LocalStorageSecurity
+	url = https://github.com/GedMarc/JWebMP-LocalStorageSecurity.git
+[submodule "IPGeography"]
+	path = IPGeography
+	url = https://github.com/GedMarc/JWebMP-IPGeography.git
