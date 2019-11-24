@@ -14,14 +14,9 @@
     <name>Security Modules</name>
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
 
-    <profiles>
-        <profile>
-            <id>devkit</id>
-            <modules>
-                <module>LocalStorageSecurity</module>
-                <module>IPGeography</module>
-            </modules>
-        </profile>
-    </profiles>
+    <modules>
+        <module>LocalStorageSecurity</module>
+        <module>IPGeography</module>
+    </modules>
 
 </project>
