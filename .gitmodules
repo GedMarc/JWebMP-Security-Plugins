@@ -4,3 +4,6 @@
 [submodule "IPGeography"]
 	path = IPGeography
 	url = https://github.com/GedMarc/JWebMP-IPGeography.git
+[submodule "SessionLocalStorage"]
+	path = SessionLocalStorage
+	url = https://github.com/GedMarc/JWebMP-Security-SessionLocalStorage.git
